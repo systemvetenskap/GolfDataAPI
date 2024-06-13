@@ -1,0 +1,6 @@
+@GolfDataAPI_HostAddress = http://localhost:5063
+
+GET {{GolfDataAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
