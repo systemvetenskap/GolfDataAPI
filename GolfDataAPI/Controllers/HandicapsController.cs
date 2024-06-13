@@ -19,7 +19,7 @@ namespace GolfDataAPI.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
-            return "value";
+            return "sträng";
         }
 
         // POST api/<HandicapsController>
