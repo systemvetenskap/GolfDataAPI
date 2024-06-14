@@ -19,6 +19,7 @@ namespace GolfDataAPI.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
+            // ska fixa detta
             return "sträng";
         }
 
