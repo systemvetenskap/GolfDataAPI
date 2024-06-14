@@ -18,7 +18,6 @@ namespace GolfDataAPI.Controllers
             _logger = logger;
         }
 
-        //public int GetRandomNumber() { return 1;}
 
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
