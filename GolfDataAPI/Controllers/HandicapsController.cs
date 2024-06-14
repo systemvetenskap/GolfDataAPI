@@ -20,6 +20,8 @@ namespace GolfDataAPI.Controllers
         public string Get(int id)
         {
             // ska fixa detta med en databas
+            
+            // klara
             return "sträng";
         }
 
